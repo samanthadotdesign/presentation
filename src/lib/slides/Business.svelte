@@ -20,11 +20,7 @@
           Understand<br />customers
         </div>
         <div class="h-20">
-          <img
-            src="/arrow.svg"
-            alt="arrow"
-            class="origin-top w-20 h-auto rotate-90"
-          />
+          <img src="/arrow.svg" alt="arrow" class="w-20 h-auto rotate-90" />
         </div>
         <div class="rounded-full border-black border-[1px]">
           Multiple<br />financing<br />products
